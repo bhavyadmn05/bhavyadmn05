@@ -1,4 +1,4 @@
-now make this one eyecatch also at leetcode social media # 💫 About Me:
+# 💫 About Me:
 I’m a MERN Stack Developer with a passion for building modern, responsive, and efficient web applications. I love turning ideas into real-world projects and exploring new technologies along the way.
 
 
