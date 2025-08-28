@@ -1,4 +1,4 @@
-please edit this so it structures well in centre + make it more beautifull # 💫 About Me:
+# 💫 About Me:
 I’m a MERN Stack Developer with a passion for building modern, responsive, and efficient web applications. I love turning ideas into real-world projects and exploring new technologies along the way.
 
 
