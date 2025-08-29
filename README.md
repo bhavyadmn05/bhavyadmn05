@@ -85,5 +85,3 @@ I’m a MERN Stack Developer with a passion for building modern, responsive, and
 - Instagram: [@bhavyadmn](https://instagram.com/bhavyadmn)  
 - LinkedIn: [/in/bhavya.](https://linkedin.com/in/bhavya.)  
 - Email: [bhavyadmn05@gmail.com](mailto:bhavyadmn05@gmail.com)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) 
