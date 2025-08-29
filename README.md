@@ -1,7 +1,12 @@
 <div align="center">
+## About Me
 
-# Bhavya — MERN Stack Developer
-Building fast, modern, and responsive web applications
+I’m Bhavya, a MERN Stack Developer who turns ideas into fast, reliable, and accessible web applications. I focus on clean UIs, scalable APIs, and a smooth developer experience—from concept to deployment.
+
+- Strong in: React/Next.js frontends, Node/Express APIs, TypeScript, MongoDB/MySQL
+- I care about: performance, accessibility, clean architecture, and readable code
+- I enjoy: building end‑to‑end products, shipping iteratively, and learning by doing
+- Currently: polishing full‑stack projects and open to contributions/collabs
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyadmn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya.)
